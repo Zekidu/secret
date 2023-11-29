@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Her {
+    height: 20%;
+    width: 15;
+    background-position: center;
+    position: absolute;
+}
+.Her-Lover {
+    height: 20%;
+    width: 15%;
+    background-position: center;
+    position: absolute;
+}
